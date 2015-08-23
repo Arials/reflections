@@ -1,2 +1,6 @@
 What happens when you initialize a repository? Why do you need to do it?
 Pasa que no se hace un commit, nencesitas hacer un commit después de inicializar un repositorio.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Staging Area es diferente del diroctorio puesto que sólo guarda los ficheros que se han añadido del directorio (que no tienen por qué ser todos).
+Y es difernte del repositorio, porque sólo tiene una foto temporal de un momento determinado
