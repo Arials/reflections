@@ -4,3 +4,6 @@ Pasa que no se hace un commit, nencesitas hacer un commit después de inicializa
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 Staging Area es diferente del diroctorio puesto que sólo guarda los ficheros que se han añadido del directorio (que no tienen por qué ser todos).
 Y es difernte del repositorio, porque sólo tiene una foto temporal de un momento determinado
+
+How can you use the staging area to make sure you have one commit per logical change?
+Añadiendo sólo los archivos que se refieren a dicho cambio lógico.
