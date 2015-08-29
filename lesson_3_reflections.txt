@@ -3,3 +3,8 @@ Always, i guess
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Because some changes are minor updates that you need to do, but until you make a lot of them, the project doesn't work, so until the project can work, you don't want to push them.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Fork - for copy a repository to my GitHub account.
+Clone - for clone a repository in my GitHub account to my local machine,
+Branches - when i need to try something new in parallel with the master branch.
