@@ -15,3 +15,7 @@ And it make sense to use with collaboration.
 When you create differnt branches for each feature, you can work in parallel whitout modify the other work. When the feature is working, you can merge the branch with the master.
 
 How do the diagrams help you visualize the branch structure?
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
